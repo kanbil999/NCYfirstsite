@@ -1,12 +1,11 @@
 # 물위의 소녀
-## 1.[GDD](http://127.0.0.1:5500/pages/page02.html)
-## 2.레벨디자인
-## 3.세계관
-## 4.스토리
-## 5.시나리오
-### 5.1 메인시나리오
-### 5.2 캐릭터 설정
-### 5.3 아이템 설정
-### 5.4 몬스터 설정
-### 5.5 스킬 설정
-## 6.스토리보드
+## [1.GDD](https://ncyfirstsite.netlify.app/pages/page02)
+## [2.레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
+## [3.세계관](https://ncyfirstsite.netlify.app/pages/page03)
+## [4.스토리](https://ncyfirstsite.netlify.app/pages/page04)
+## [5.시나리오](https://ncyfirstsite.netlify.app/pages/page05)
+## [6.스토리보드](https://ncyfirstsite.netlify.app/pages/page06)
+### [6.1 스토리보드 컨셉](https://ncyfirstsite.netlify.app/pages/page06-1)
+## [7.캐릭터](https://ncyfirstsite.netlify.app/pages/page08)
+## [8.플레이어 모션](https://ncyfirstsite.netlify.app/pages/page09)
+## [9.몬스터&아이템](https://ncyfirstsite.netlify.app/pages/page10)
