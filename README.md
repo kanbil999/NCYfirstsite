@@ -25,10 +25,7 @@
 주인공은 생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
 </div>
 </details>  
-  
-
-  
-
+<hr/>
 ![Drupal](https://img.shields.io/badge/AD-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 <details>
@@ -50,8 +47,5 @@
 
 </div>
 </details>  
-  
-
 <hr/>
-
 [노션페이지로 이동](https://www.notion.so/07dbb0c4958847f194f0854bb869762f)
