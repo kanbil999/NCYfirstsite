@@ -32,7 +32,7 @@
 </div>
 </details>  
 
-![Drupal](https://img.shields.io/badge/AD-#199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Drupal](https://img.shields.io/badge/AD-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 <details>
 <summary>애니멀 디펜스</summary>
