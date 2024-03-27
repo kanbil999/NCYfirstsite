@@ -1,4 +1,4 @@
-<details>
+![Drupal](https://img.shields.io/badge/TFA-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)<details>
 <summary>TFA : 침수지역</summary>
 <div markdown="1">
 
@@ -6,7 +6,7 @@
 
 ### **게임장르**     
 
-메트로배니아 액션 어드밴처 RPG.  
+메트로배니아 액션 어드밴처 RPG 게임.  
 
 ### **개요**  
 
@@ -30,4 +30,23 @@
 </div>
 </details>  
 
-![Drupal](https://img.shields.io/badge/TFA-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
+
+<details>
+<summary>애니멀 디펜스</summary>
+<div markdown="1">
+
+# TFA : 침수지역
+
+### **게임장르**     
+
+전략 타워 디펜스 게임
+
+### **개요**  
+
+
+### **목표**  
+
+
+
+</div>
+</details>  
