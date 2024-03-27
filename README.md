@@ -3,8 +3,6 @@
 <summary>TFA : 침수지역</summary>
 <div markdown="1">
 
-# TFA : 침수지역
-
 ### **게임장르**     
 
 메트로배니아 액션 어드밴처 RPG 게임.  
@@ -17,17 +15,17 @@
 
 생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
 
-### **목차**
-## [1.GDD](https://ncyfirstsite.netlify.app/pages/page02)
-## [2.레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
-## [3.세계관](https://ncyfirstsite.netlify.app/pages/page03)
-## [4.스토리](https://ncyfirstsite.netlify.app/pages/page04)
-## [5.시나리오](https://ncyfirstsite.netlify.app/pages/page05)
-## [6.스토리보드](https://ncyfirstsite.netlify.app/pages/page06)
-### [6.1 스토리보드 컨셉](https://ncyfirstsite.netlify.app/pages/page06-1)
-## [7.캐릭터](https://ncyfirstsite.netlify.app/pages/page08)
-## [8.플레이어 모션](https://ncyfirstsite.netlify.app/pages/page09)
-## [9.몬스터&아이템](https://ncyfirstsite.netlify.app/pages/page10)
+# **목차**
+## [GDD](https://ncyfirstsite.netlify.app/pages/page02)
+## [레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
+## [세계관](https://ncyfirstsite.netlify.app/pages/page03)
+## [스토리](https://ncyfirstsite.netlify.app/pages/page04)
+## [시나리오](https://ncyfirstsite.netlify.app/pages/page05)
+## [스토리보드](https://ncyfirstsite.netlify.app/pages/page06)
+### [스토리보드 컨셉](https://ncyfirstsite.netlify.app/pages/page06-1)
+## [캐릭터](https://ncyfirstsite.netlify.app/pages/page08)
+## [플레이어 모션](https://ncyfirstsite.netlify.app/pages/page09)
+## [몬스터&아이템](https://ncyfirstsite.netlify.app/pages/page10)
 
 </div>
 </details>  
