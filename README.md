@@ -3,19 +3,13 @@
 <summary>TFA : 침수지역</summary>
 <div markdown="1">
 
-### **게임장르**     
-
+## **게임장르**     
 메트로배니아 액션 어드밴처 RPG 게임.  
 
-### **개요**  
-
+## **개요**  
 침수 상황의 도시를 배경으로 종교 세력과 저항군 세력의 갈등을 메인 테마로 하여 주인공의 성장과 능력을 통해 새로운 지역의 탐험과 다양한 적들에게 맞서 나아가는 게임이다.  
 
-### **목표**  
-
-생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
-
-# **목차**
+## **목차**
 ## [GDD](https://ncyfirstsite.netlify.app/pages/page02)
 ## [레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
 ## [세계관](https://ncyfirstsite.netlify.app/pages/page03)
@@ -26,7 +20,9 @@
 ## [캐릭터](https://ncyfirstsite.netlify.app/pages/page08)
 ## [플레이어 모션](https://ncyfirstsite.netlify.app/pages/page09)
 ## [몬스터&아이템](https://ncyfirstsite.netlify.app/pages/page10)
-
+   
+## **목표**  
+주인공은 생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
 </div>
 </details>  
 
