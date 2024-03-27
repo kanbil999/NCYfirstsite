@@ -1,4 +1,5 @@
-![Drupal](https://img.shields.io/badge/TFA-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)<details>
+![Drupal](https://img.shields.io/badge/TFA-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)
+<details>
 <summary>TFA : 침수지역</summary>
 <div markdown="1">
 
@@ -14,8 +15,9 @@
 
 ### **목표**  
 
-생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.  
+생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
 
+### **목차**
 ## [1.GDD](https://ncyfirstsite.netlify.app/pages/page02)
 ## [2.레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
 ## [3.세계관](https://ncyfirstsite.netlify.app/pages/page03)
@@ -30,6 +32,7 @@
 </div>
 </details>  
 
+![Drupal](https://img.shields.io/badge/AD-#199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
 <details>
 <summary>애니멀 디펜스</summary>
