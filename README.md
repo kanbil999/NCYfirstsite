@@ -10,16 +10,16 @@
 침수 상황의 도시를 배경으로 종교 세력과 저항군 세력의 갈등을 메인 테마로 하여 주인공의 성장과 능력을 통해 새로운 지역의 탐험과 다양한 적들에게 맞서 나아가는 게임이다.  
 
 ## **목차**
-## [GDD](https://ncyfirstsite.netlify.app/pages/page02)
-## [레벨디자인](https://ncyfirstsite.netlify.app/pages/page07)
-## [세계관](https://ncyfirstsite.netlify.app/pages/page03)
-## [스토리](https://ncyfirstsite.netlify.app/pages/page04)
-## [시나리오](https://ncyfirstsite.netlify.app/pages/page05)
-## [스토리보드](https://ncyfirstsite.netlify.app/pages/page06)
-### [스토리보드 컨셉](https://ncyfirstsite.netlify.app/pages/page06-1)
-## [캐릭터](https://ncyfirstsite.netlify.app/pages/page08)
-## [플레이어 모션](https://ncyfirstsite.netlify.app/pages/page09)
-## [몬스터&아이템](https://ncyfirstsite.netlify.app/pages/page10)
+## [GDD](https://ncyfirstsite.netlify.app/pages/tfapage01)
+## [레벨디자인](https://ncyfirstsite.netlify.app/pages/tfapage06)
+## [세계관](https://ncyfirstsite.netlify.app/pages/tfapage02)
+## [스토리](https://ncyfirstsite.netlify.app/pages/tfapage03)
+## [시나리오](https://ncyfirstsite.netlify.app/pages/tfapage04)
+## [스토리보드](https://ncyfirstsite.netlify.app/pages/tfapage05)
+## [캐릭터](https://ncyfirstsite.netlify.app/pages/tfapage07)
+## [캐릭터 모션](https://ncyfirstsite.netlify.app/pages/tfapage08)
+## [몬스터&아이템](https://ncyfirstsite.netlify.app/pages/tfapage09)
+## [회의록](https://ncyfirstsite.netlify.app/pages/tfapage10)
    
 ## **목표**  
 주인공은 생존과 사회적 선택을 통해 세계를 재건하며 살아 남아야한다.    
