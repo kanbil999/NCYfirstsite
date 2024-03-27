@@ -54,4 +54,4 @@
 </div>
 </details>  
 
-<img src="https://www.notion.so/07dbb0c4958847f194f0854bb869762f?style=for-the-badge&logo=notion&logoColor=black">
+[노션페이지](https://www.notion.so/07dbb0c4958847f194f0854bb869762f)
